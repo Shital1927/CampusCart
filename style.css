@@ -84,6 +84,9 @@ p{
     font-family: 'Times New Roman', Times, serif;
     
 }
+.f{
+    color:#d64b4b;
+}
 button
 {
     height: 50px;
@@ -141,4 +144,13 @@ button
 }
 p{
     text-align: center;
+}
+footer{
+    background:#DB5210;
+    color:white;
+    padding:40px;
+}
+.footer-container{
+    display:flex;
+    justify-content:space-around;
 }
